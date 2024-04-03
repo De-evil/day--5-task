@@ -1,0 +1,88 @@
+{
+    "basics": {
+      "name": "Manoj",
+      "label": "Programmer",
+      "image": "",
+      "email": "manoj.rajagopal@goutlook",
+      "phone": "9080827248",
+      "url": "https://manpj.com",
+      "summary": "A summary of Manoj",
+      "location": {
+        "address": "5 vandulr park residency",
+        "postalCode": "600048",
+        "city": "Chennai",
+        "countryCode": "IN",
+        "region": "India"
+      },
+      "profiles": [{
+        "network": "Twitter",
+        "username": "Manoj",
+        "url": "https://twitter.com/manoj"
+      }]
+    },
+    "work": [{
+      "name": "HOHO",
+      "position": "Senior_developer",
+      "url": "https://company.com",
+      "startDate": "2024-07-10",
+      "endDate": "2026-07-10",
+      "summary": "Description…",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 -MERAN- Stack"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": " java Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "projects": [{
+      "name": "Mcdonald's Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
